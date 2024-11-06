@@ -114,14 +114,14 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/Nobita_All_Bot"
-)  # Example:- https://t.me/VIP_CREATORS
+    "SUPPORT_CHANNEL", "https://t.me/Lucky_jet_game_signal"
+)  # Example:- https://t.me/Lucky_jet_game_signal
 SUPPORT_GROUP = getenv(
-    "BOYS_STATUS_GROUP", "https://t.me/NOBITA_SUPPORT"
-)  # Example:- https://t.me/TG_FRIENDSS
+    "BOYS_STATUS_GROUP", "https://t.me/lucky_jet_aviator_prediction"
+)  # Example:- https://t.me/lucky_jet_aviator_prediction
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/Nobita_Support"
+    "SUPPORT_GROUP", "https://t.me/Betting_Fantasy_Tips"
 )  # Example:- https://t.me/TG_FRIENDSS
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", False)
@@ -217,67 +217,67 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://envs.sh/WjQ.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
     "SPOTIFY_ARTIST_IMG_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 SPOTIFY_ALBUM_IMG_URL = getenv(
     "SPOTIFY_ALBUM_IMG_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
     "SPOTIFY_PLAYLIST_IMG_URL",
-    "https://envs.sh/0-l.jpg",
+    "https://envs.sh/jln.jpg",
 )
 
 
@@ -318,7 +318,7 @@ if GITHUB_REPO:
 
 
 if PING_IMG_URL:
-    if PING_IMG_URL != "https://envs.sh/0-U.jpg":
+    if PING_IMG_URL != "https://envs.sh/jln.jpg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
             print(
                 "[ERROR] - Your PING_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -326,7 +326,7 @@ if PING_IMG_URL:
 
 
 if PLAYLIST_IMG_URL:
-    if PLAYLIST_IMG_URL != "https://envs.sh/0-U.jpg":
+    if PLAYLIST_IMG_URL != "https://envs.sh/jln.jpg":
         if not re.match("(?:http|https)://", PLAYLIST_IMG_URL):
             print(
                 "[ERROR] - Your PLAYLIST_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -334,7 +334,7 @@ if PLAYLIST_IMG_URL:
 
 
 if GLOBAL_IMG_URL:
-    if GLOBAL_IMG_URL != "https://envs.sh/0-U.jpg":
+    if GLOBAL_IMG_URL != "https://envs.sh/jln.jpg":
         if not re.match("(?:http|https)://", GLOBAL_IMG_URL):
             print(
                 "[ERROR] - Your GLOBAL_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -342,7 +342,7 @@ if GLOBAL_IMG_URL:
 
 
 if STATS_IMG_URL:
-    if STATS_IMG_URL != "https://envs.sh/0-U.jpg":
+    if STATS_IMG_URL != "https://envs.sh/jln.jpg":
         if not re.match("(?:http|https)://", STATS_IMG_URL):
             print(
                 "[ERROR] - Your STATS_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -350,7 +350,7 @@ if STATS_IMG_URL:
 
 
 if TELEGRAM_AUDIO_URL:
-    if TELEGRAM_AUDIO_URL != "https://envs.sh/0-U.jpg":
+    if TELEGRAM_AUDIO_URL != "https://envs.sh/jln.jpg":
         if not re.match("(?:http|https)://", TELEGRAM_AUDIO_URL):
             print(
                 "[ERROR] - Your TELEGRAM_AUDIO_URL url is wrong. Please ensure that it starts with https://"
@@ -358,7 +358,7 @@ if TELEGRAM_AUDIO_URL:
 
 
 if STREAM_IMG_URL:
-    if STREAM_IMG_URL != "https://envs.sh/0-U.jpg":
+    if STREAM_IMG_URL != "https://envs.sh/jln.jpg":
         if not re.match("(?:http|https)://", STREAM_IMG_URL):
             print(
                 "[ERROR] - Your STREAM_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -366,7 +366,7 @@ if STREAM_IMG_URL:
 
 
 if SOUNCLOUD_IMG_URL:
-    if SOUNCLOUD_IMG_URL != "https://envs.sh/0-U.jpg":
+    if SOUNCLOUD_IMG_URL != "https://envs.sh/jln.jpg":
         if not re.match("(?:http|https)://", SOUNCLOUD_IMG_URL):
             print(
                 "[ERROR] - Your SOUNCLOUD_IMG_URL url is wrong. Please ensure that it starts with https://"
@@ -374,7 +374,7 @@ if SOUNCLOUD_IMG_URL:
 
 
 if YOUTUBE_IMG_URL:
-    if YOUTUBE_IMG_URL != "https://envs.sh/0-U.jpg":
+    if YOUTUBE_IMG_URL != "https://envs.sh/jln.jpg":
         if not re.match("(?:http|https)://", YOUTUBE_IMG_URL):
             print(
                 "[ERROR] - Your YOUTUBE_IMG_URL url is wrong. Please ensure that it starts with https://"
