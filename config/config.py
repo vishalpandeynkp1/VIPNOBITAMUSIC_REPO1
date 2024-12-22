@@ -1,10 +1,4 @@
-#
-# Copyright (C) 2024 by THE-VIP-BOY-OP@Github, < https://github.com/THE-VIP-BOY-OP >.
-#
-# This file is part of < https://github.com/THE-VIP-BOY-OP/VIP-MUSIC > project,
-# and is released under the MIT License.
-# Please see < https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/master/LICENSE >
-#
+
 # All rights reserved.
 import re
 from os import getenv
@@ -96,7 +90,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO",
+    "https://github.com/vishalpandeynkp/VIPNOBITAMUSIC_REPO",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
