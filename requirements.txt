@@ -1,3 +1,4 @@
+
 pyromod
 openai
 aiofiles
@@ -16,7 +17,10 @@ wget
 pillow==9.5.0
 pymongo==3.12.0
 psutil
+pytube
+pykeyboard
 unidecode
+pyromod
 py-tgcalls==1.2.9
 ntgcalls==1.1.2
 python-dotenv
@@ -32,6 +36,5 @@ gunicorn==20.1.0
 git+https://github.com/KurimuzonAkuma/pyrogram@dev
 git+https://github.com/yt-dlp/yt-dlp
 git+https://github.com/alexmercerind/youtube-search-python@main
+git+https://github.com/joetats/youtube_search@master
 git+https://github.com/vishalpandeynkp1/NobitaAPI
-pykeyboard
-youtube-search-python
