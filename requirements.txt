@@ -34,3 +34,4 @@ git+https://github.com/yt-dlp/yt-dlp
 git+https://github.com/alexmercerind/youtube-search-python@main
 git+https://github.com/vishalpandeynkp1/NobitaAPI
 pykeyboard
+youtube-search-python
