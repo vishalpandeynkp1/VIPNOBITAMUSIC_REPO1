@@ -8,8 +8,8 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-![Stars](https://img.shields.io/github/stars/vishalpandeynkp1/VIPNOBITAMUSIC_REPO?style=social)
-![Forks](https://img.shields.io/github/forks/vishalpandeynkp1/VIPNOBITAMUSIC_REPO?style=social)
+![Stars](https://img.shields.io/github/stars/vishalpandeynkp/VIPNOBITAMUSIC_REPO?style=social)
+![Forks](https://img.shields.io/github/forks/vishalpandeynkp/VIPNOBITAMUSIC_REPO?style=social)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -53,7 +53,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 
 <p align="center">
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO">
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/vishalpandeynkp/VIPNOBITAMUSIC_REPO">
         <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
     </a>
 </p>
